@@ -8,8 +8,33 @@ including a link to
 
 ## List of talks
 
-- 2025-01-23, TBD
+- 2026-07-09, TBD
+- 2026-06-25, TBD
+- 2026-06-11, TBD
+- 2026-05-28, TBD
+- 2026-05-14: no meeting (Christi Himmelfahrt)
+- 2026-04-30, Boris Kaus, Wrapping [PETSc](https://petsc.org/) in Julia: [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl)
+  - We will start 15 minutes earlier than usual, i.e., at 12:00
+- 2026-04-16, Annalena Stroh, [Numerical modelling of diffusion-limited mineral growth for geospeedometry applications](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2511/egusphere-2025-2511.pdf)
+- 2026-02-05, TBD
+- 2026-01-22, Boris Kaus, Interaction of Julia with C/Fortran binaries and libraries
+- 2026-01-08, ~Annalena Stroh, [Numerical modelling of diffusion-limited mineral growth for geospeedometry applications](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2511/egusphere-2025-2511.pdf)~ No meeting
+- 2025-12-11, Valentin Churavy, Automated memory management with Garbage Collection in Julia
+- 2025-11-27: Geoscience hackathon - no meeting
+- 2025-11-13, Hendrik Ranocha, Tools for programming and related tasks
+- 2025-07-03, Hugo Dominguez, Uncertainty Propagation using Measurements.jl and MonteCarloMeasurements.jl
+- 2025-06-05, ~Boris Kaus, tbd~ Discussion and bring your bugs
+- 2025-05-22: Antrittsvorlesung of Thibault Duretz in Frankfurt
+- 2025-05-08, Collin Wittenstein and Hendrik Ranocha, Some Julia Workflows
+- 2025-04-24, Hendrik Ranocha, [Comments on plotting](https://ranocha.de/Julia_User_Group_Mainz/2025_04_24_Comments_on_plotting)
+  - We will also discuss how to proceed with our Julia User Group meetings in the summer term 2025
+- 2025-03-06, Boris Kaus, Creating GUIs using [GLMakie.jl](https://github.com/MakieOrg/Makie.jl)
+- 2025-02-06, Marco Artiano, [HOHQMesh.jl](https://github.com/trixi-framework/HOHQMesh.jl) tutorial
+  - Please note that we have to meet in a different room: **Gernot Gräf Raum, fifth floor in Staudingerweg 7**
+- 2025-01-23, Arpit Babbar and Marco Artiano, An introduction to [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
   - Please note that we have to meet in a different room: **04-220 in Staudingerweg 9**
+  - [Introduction to Trixi.jl](https://ranocha.de/Julia_User_Group_Mainz/2025_01_23_Introduction_To_Trixi_Part1.html)
+  - [Some Applications of Trixi.jl](https://ranocha.de/Julia_User_Group_Mainz/2025_01_23_trixi_applications.html)
 - 2025-01-09, Pascal Aellig, Leveraging the Julia infrastructure on GitHub for package development
 - 2024-12-12, Jacob Frasunkiewicz, Using AD to compute adjoints
 - 2024-11-28, Arpit Babbar, Using Julia and VS Code via SSH
